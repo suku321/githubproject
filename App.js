@@ -2,6 +2,7 @@ import React from 'react';
 import FontAwesome from 'react-native-vector-icons/FontAwesome' ;
 import { StyleSheet,Image,TextInput, Text,TouchableOpacity, KeyboardAvoidingView,View } from 'react-native';
 
+
 const backgroundPic = require ('./img/background.jpg');
 const logo    =      require('./img/logo.gif');
 export default class App extends React.Component {
